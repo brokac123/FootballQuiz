@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1007982121795",
+    "project_id": "nogometnikviz-fddfe",
+    "storage_bucket": "nogometnikviz-fddfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007982121795:android:a1fd89a9f61e76650595f6",
+        "android_client_info": {
+          "package_name": "com.lukabakula.nogometnikvizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007982121795-kcc5ndsavtrld88mbbdhk88gd7qkctf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN5NmSgQ6OBvZbCwo5lirareME6vtBOPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007982121795-kcc5ndsavtrld88mbbdhk88gd7qkctf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
