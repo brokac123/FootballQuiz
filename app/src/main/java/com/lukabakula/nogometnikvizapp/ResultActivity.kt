@@ -24,7 +24,7 @@ class ResultActivity : AppCompatActivity() {
         val correctAnswers=intent.getIntExtra(Constants.CORRECT_ANSWERS,0)
         tv_score.text="Your score is $correctAnswers out of $totalQuestions"
         btn_finish.setOnClickListener{
-            startActivity(Intent(this,MainActivity::class.java))
+            startActivity(Intent(this,SignUpActivity::class.java))
             finish()
         }
 

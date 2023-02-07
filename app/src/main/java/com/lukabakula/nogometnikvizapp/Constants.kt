@@ -30,7 +30,7 @@ object Constants {
 
         // 3
         val que3 = Question(
-            3, "Which of the mentioned players has never played in the Champions League\n",
+            3, "Which of the mentioned players has never played in the Champions League?\n",
             R.drawable.kviz,
             "Diego Maradona", "Luis Figo",
             "Ronaldo Nazario", "Pele", 4
@@ -60,7 +60,7 @@ object Constants {
 
         // 6
         val que6 = Question(
-            6, "Who is the only player who has won 2 golden balls on the world cups\n",
+            6, "Who is the only player who has won 2 golden balls on the world cups?\n",
             R.drawable.kviz,
             "Leo Messi", "Pele",
             "Miroslav Klose", "none of these", 1
